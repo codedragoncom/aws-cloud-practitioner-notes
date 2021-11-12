@@ -1,4 +1,4 @@
-# Notes for the AWS Cloud Practitioner Exam 2020
+# Notes for the AWS Cloud Practitioner Exam 2021
 
 ## 1. Introduction
 **AWS Cloud**: on demand delivery of IT through the internet
